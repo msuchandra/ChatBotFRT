@@ -1,0 +1,7 @@
+﻿NAME,TYPE,RESOURCE GROUP,LOCATION,SUBSCRIPTION,
+"chatbotfrt","Language","chatbotfrt","East US","Free Trial"
+"chatbotfrt-asf3fpuql6knl42","Search service","chatbotfrt","East US","Free Trial"
+"chatbotfrt-bot","Azure Bot","chatbotfrt","Global","Free Trial"
+"chatbotfrt-bot","Managed Identity","chatbotfrt","East US","Free Trial"
+"chatbotfrt-bot-930b","App Service","chatbotfrt","East US","Free Trial"
+"chatbotfrt-serverfarm-56233a","App Service plan","chatbotfrt","East US","Free Trial"
