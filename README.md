@@ -1,7 +1,7 @@
 # Q&A chatbot on Digital Transformation using Microsoft Azure Bot Service
 
 #The Chatbot is embedded in index.html file
-The chatbot is made using Azure Language Service and Azure Bot Service. Then it is embedded into the HTML code. The 
+The chatbot is made using Azure Language Service and Azure Bot Service. Then it is embedded into the HTML code.
 
 
 The project of Question and Answers on Digital Transformation ChatBot aims to develop a conversational AI application that can assist users with queries related to digital transformation. The chatbot is designed to understand user queries in natural language and provide relevant information related to digital transformation. 
